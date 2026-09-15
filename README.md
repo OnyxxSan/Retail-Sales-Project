@@ -142,7 +142,7 @@ This represents approximately **4.1 times more sales** from 4-item transactions 
 
 The final Power BI dashboard provides an interactive overview of retail sales performance, customer demographics, purchasing behavior, and monthly trends.
 
-![Retail Sales Dashboard](powerbi/Dashboard_Screenshot.png)
+![Retail Sales Dashboard](powerbi/Dashboard Screenshot.png)
 
 ---
 
