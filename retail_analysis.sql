@@ -1,4 +1,4 @@
-
+sql/retail_analysis.sql
 -- Retail Sales Analysis
 
 SELECT TOP 10 *
